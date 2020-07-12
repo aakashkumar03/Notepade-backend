@@ -16,7 +16,7 @@
     
 ## Routes 
     register :- http://localhost:8080/register 
-    login    :- http://localhost:8080login 
+    login    :- http://localhost:8080/login 
     
     PROTECTED ROUTES
     
